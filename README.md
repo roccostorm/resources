@@ -25,6 +25,7 @@ Lists with Links to all kind of (Dev-)Reources.
 ## Web Frontent
 
 * http://mediaqueri.es/
+* http://designm.ag/web-designs/rapid-prototyping-for-web-design/
 
 ## Python
 

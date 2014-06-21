@@ -16,6 +16,7 @@ Lists with Links to all kind of (Dev-)Reources.
 * http://www.heise.de/developer/artikel/Single-Page-Applications-mit-AngularJS-Teil-1-Erste-Schritte-2181167.html
 * http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html#tdd
 * https://github.com/mgechev/angularjs-in-patterns
+* https://github.com/vicapow/angular-d3-talk
 
 ### Backbone
 

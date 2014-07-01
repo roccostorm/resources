@@ -18,6 +18,11 @@ Lists with Links to all kind of (Dev-)Reources.
 * https://github.com/mgechev/angularjs-in-patterns
 * https://github.com/vicapow/angular-d3-talk
 
+### D3
+
+* http://blog.stephenboak.com/2011/08/07/easy-as-a-pie.html | http://jsfiddle.net/stephenboak/hYuPb/
+* http://bost.ocks.org/mike/circles/
+
 ### Backbone
 
 * http://www.smashingmagazine.com/2013/02/11/introduction-backbone-marionette/
@@ -42,3 +47,7 @@ Lists with Links to all kind of (Dev-)Reources.
 * http://git-scm.com/book
 
 ## Div
+
+* http://codepen.io/mike-zarandona/full/FELxi/ - pretty youtube embet
+* https://emailselfdefense.fsf.org/de/infographic.html | https://emailselfdefense.fsf.org/de/ - Anleitung E-Mail verschlüsselung vom FSF
+* https://github.com/brantje/passman - owncloud PW manager

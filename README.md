@@ -37,4 +37,8 @@ Lists with Links to all kind of (Dev-)Reources.
 
 * https://geduldig.github.io/twitterdb/index.html
 
+## Git
+
+* http://git-scm.com/book
+
 ## Div

@@ -31,6 +31,7 @@ Lists with Links to all kind of (Dev-)Reources.
 
 * http://mediaqueri.es/
 * http://designm.ag/web-designs/rapid-prototyping-for-web-design/
+* http://sixrevisions.com/css/responsive-background-image/
 
 ## Python
 

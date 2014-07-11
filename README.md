@@ -7,6 +7,7 @@ Lists with Links to all kind of (Dev-)Reources.
 
 * [Stanford Javascript Crypto Library](https://bitwiseshiftleft.github.io/sjcl/)
 * https://jonobr1.github.io/two.js/
+* http://jsbooks.revolunet.com/
 
 ### AngularJS
 

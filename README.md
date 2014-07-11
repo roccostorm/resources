@@ -18,6 +18,7 @@ Lists with Links to all kind of (Dev-)Reources.
 * http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html#tdd
 * https://github.com/mgechev/angularjs-in-patterns
 * https://github.com/vicapow/angular-d3-talk
+* http://jsfiddle.net/WarwickGrigg/dCCQF/ - CouchDB Requests
 
 ### D3
 

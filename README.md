@@ -9,6 +9,7 @@ Lists with Links to all kind of (Dev-)Reources.
 * https://jonobr1.github.io/two.js/
 * http://jsbooks.revolunet.com/
 * http://papaparse.com/ - csv parser
+* http://eloquentjavascript.net/ - new version!
 
 ### AngularJS
 
